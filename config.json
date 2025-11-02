@@ -1,0 +1,45 @@
+{
+    "name": "monthversary-card",
+    "version": "1.0.0",
+    "description": "A beautiful 3D monthversary card with animated hearts",
+    "homepage": "https://[your-username].github.io/monthversary-card",
+    "author": "[your-username]",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/[your-username]/monthversary-card.git"
+    },
+    "keywords": [
+        "monthversary",
+        "animation",
+        "3D",
+        "card",
+        "hearts"
+    ],
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/[your-username]/monthversary-card/issues"
+    },
+    "dependencies": {},
+    "styles": {
+        "colors": {
+            "background1": "#ffd6e8",
+            "background2": "#ffb3d1",
+            "card": "#fff",
+            "accent": "#ff4d9e",
+            "soft": "#ff8fc1"
+        },
+        "animations": {
+            "tilt": {
+                "rotateX": -12,
+                "rotateY": 18,
+                "transition": "300ms cubic-bezier(.2,.9,.3,1)"
+            },
+            "hearts": {
+                "spawnInterval": 700,
+                "burstCount": 12,
+                "burstInterval": 120,
+                "lifetime": 9000
+            }
+        }
+    }
+}
