@@ -2,11 +2,11 @@
     "name": "monthversary-card",
     "version": "1.0.0",
     "description": "A beautiful 3D monthversary card with animated hearts",
-    "homepage": "https://[your-username].github.io/monthversary-card",
-    "author": "[your-username]",
+    "homepage": "https://[gamerneverd].github.io/monthversary-card",
+    "author": "[gamerneverd]",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/[your-username]/monthversary-card.git"
+        "url": "git+https://github.com/[gamerneverd]/monthversary-card.git"
     },
     "keywords": [
         "monthversary",
@@ -17,7 +17,7 @@
     ],
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/[your-username]/monthversary-card/issues"
+        "url": "https://github.com/[gamerneverd]/monthversary-card/issues"
     },
     "dependencies": {},
     "styles": {
